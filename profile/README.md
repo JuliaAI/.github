@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/MLJLogo2.svg" alt="MLJ" width="200">
-</div>
-
 JuliaAI is the organization that hosts software supporting the Machine
 Learning in Julia project [MLJ](https://github.com/alan-turing-institute/MLJ.jl).
 
@@ -13,10 +9,10 @@ framework?** Start [here](https://alan-turing-institute.github.io/MLJ.jl/dev/qui
 **Want to learn more about the project?** Start [here](https://github.com/alan-turing-institute/MLJ.jl).
 
 <div align="center">
-    <img src="assets/MLJ_stack.svg" alt="Dependency Chart">
+    <img src="https://raw.githubusercontent.com/alan-turing-institute/MLJ.jl/dev/material/MLJ_stack.svg" alt="Dependency Chart">
 </div>
 
-*Dependency chart for MLJ repositories. Repositories with dashed
+*Dependency chart for MLJ software. Repositories with dashed
 connections do not currently exist but are planned/proposed.*
 
 
