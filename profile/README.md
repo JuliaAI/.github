@@ -1,5 +1,5 @@
 JuliaAI is the organization that hosts software supporting the Machine
-Learning in Julia project [MLJ](https://github.com/alan-turing-institute/MLJ.jl).
+Learning in Julia project, [MLJ](https://github.com/alan-turing-institute/MLJ.jl).
 
 **New to MLJ?** Start [here](https://alan-turing-institute.github.io/MLJ.jl/dev/).
 
